@@ -83,3 +83,9 @@ Route::get('/book_library',function (){
 Route::get('/project',function (){
     return view('frontend.projects');
 });
+
+Route::get('/profile',function (){
+    $username = $_GET['username'];
+    //TODO query database with username
+    return view('frontend.profile');
+});

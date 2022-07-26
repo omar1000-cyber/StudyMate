@@ -23,7 +23,7 @@
                     <td>rakhigupta@gmail.com</td>
                     <td>Engineering</td>
                     <td>KNUST</td>
-                    <td><button>View</button></td>
+                    <td><a href="/profile?username=Rakhi Gupta"><button>View</button></a></td>
                 </tr>
                 <tr>
                     <td><img src= /></td>
@@ -31,7 +31,7 @@
                     <td>anjali@gmail.com</td>
                     <td>Engineering</td>
                     <td>UPSA</td>
-                    <td><button>View</button></td>
+                    <td><a href="/profile?username=Anjali"><button>View</button></a></td>
                 </tr>
                 <tr>
 

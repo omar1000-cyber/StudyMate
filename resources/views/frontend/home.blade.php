@@ -441,5 +441,5 @@
     </div>
     <!-- Testimonial End -->
 
-
+    @include('frontend.footer')
 @endsection
