@@ -76,6 +76,7 @@
 
                     <div class="input-field button">
                         <input type="button" value="Login">
+
                     </div>
                 </form>
 
@@ -90,13 +91,17 @@
             <div class="form signup">
                 <span class="title">Registration</span>
 
-                <form action="#">
+                <form action="#" method="post">
                     <div class="input-field">
                         <input type="text" placeholder="Enter your name" required>
                         <i class="uil uil-user"></i>
                     </div>
                     <div class="input-field">
                         <input type="text" placeholder="Enter your email" required>
+                        <i class="uil uil-envelope icon"></i>
+                    </div>
+                    <div class="input-field">
+                        <input type="text" placeholder="Enter your school" required>
                         <i class="uil uil-envelope icon"></i>
                     </div>
                     <div class="input-field">

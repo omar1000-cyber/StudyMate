@@ -19,6 +19,8 @@
                     <div class="dropdown-menu fade-down m-0">
                         <a href="team" class="dropdown-item">Our Team</a>
                         <a href="testimonial" class="dropdown-item">Testimonial</a>
+                        <a href="book_library" class="dropdown-item">Book Library</a>
+                        <a href="project" class="dropdown-item">Projects</a>
 {{--                        <a href="404" class="dropdown-item">404 Page</a>--}}
                     </div>
                 </div>
@@ -83,7 +85,7 @@
                                 <small class="fa fa-star text-primary"></small>
 {{--                                <small>(123)</small>--}}
                             </div>
-                            <h5 class="mb-4">Web Design & Development Course for Beginners</h5>
+                            <h5 class="mb-4">Graphic Design</h5>
                         </div>
                         <div class="d-flex border-top">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-user-tie text-primary me-2"></i>John Doe</small>
@@ -111,7 +113,7 @@
                                 <small class="fa fa-star text-primary"></small>
 {{--                                <small>(123)</small>--}}
                             </div>
-                            <h5 class="mb-4">Web Design & Development Course for Beginners</h5>
+                            <h5 class="mb-4">Java Programming</h5>
                         </div>
                         <div class="d-flex border-top">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-user-tie text-primary me-2"></i>John Doe</small>
@@ -139,7 +141,7 @@
                                 <small class="fa fa-star text-primary"></small>
 {{--                                <small>(123)</small>--}}
                             </div>
-                            <h5 class="mb-4">Web Design & Development Course for Beginners</h5>
+                            <h5 class="mb-4">Computer Network Security</h5>
                         </div>
                         <div class="d-flex border-top">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-user-tie text-primary me-2"></i>John Doe</small>
@@ -167,7 +169,7 @@
                                 <small class="fa fa-star text-primary"></small>
 {{--                                <small>(123)</small>--}}
                             </div>
-                            <h5 class="mb-4">Web Design & Development Course for Beginners</h5>
+                            <h5 class="mb-4">Programming with C++</h5>
                         </div>
                         <div class="d-flex border-top">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-user-tie text-primary me-2"></i>John Doe</small>
@@ -195,7 +197,7 @@
                                 <small class="fa fa-star text-primary"></small>
 {{--                                <small>(123)</small>--}}
                             </div>
-                            <h5 class="mb-4">Web Design & Development Course for Beginners</h5>
+                            <h5 class="mb-4">Data Communication</h5>
                         </div>
                         <div class="d-flex border-top">
                             <small class="flex-fill text-center border-end py-2"><i class="fa fa-user-tie text-primary me-2"></i>John Doe</small>

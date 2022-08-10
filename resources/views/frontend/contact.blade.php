@@ -20,6 +20,8 @@
                     <div class="dropdown-menu fade-down m-0">
                         <a href="team" class="dropdown-item">Our Team</a>
                         <a href="testimonial" class="dropdown-item">Testimonial</a>
+                        <a href="book_library" class="dropdown-item">Book Library</a>
+                        <a href="project" class="dropdown-item">Projects</a>
 {{--                        <a href="404" class="dropdown-item">404 Page</a>--}}
                     </div>
                 </div>

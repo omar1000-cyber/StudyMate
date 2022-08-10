@@ -21,6 +21,8 @@
                     <div class="dropdown-menu fade-down m-0">
                         <a href="team" class="dropdown-item">Our Team</a>
                         <a href="testimonial" class="dropdown-item">Testimonial</a>
+                        <a href="book_library" class="dropdown-item">Book Library</a>
+                        <a href="project" class="dropdown-item">Projects</a>
 {{--                        <a href="find mates" class="dropdown-item">Find Mates</a>--}}
                     </div>
                 </div>

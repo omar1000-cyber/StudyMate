@@ -51,15 +51,17 @@
                         <h4>Phone</h4>
                         <p>0001-213-998761</p>
                     </div>
+
                 </div>
             </div>
 
             <div class="projects">
-                <h3>Projects</h3>
+{{--                <h3>Projects</h3>--}}
                 <div class="projects_data">
                     <div class="data">
-                        <h4>Recent</h4>
-                        <p>Lorem ipsum dolor sit amet.</p>
+                        <h4><a href="project" class="dropdown-item">send request</a></h4>
+{{--                        <a href="project" class="dropdown-item">Projects</a>--}}
+                        <p>ask to be a friend</p>
                     </div>
                     <div class="data">
                         <h4>Most Viewed</h4>
